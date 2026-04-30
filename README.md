@@ -38,6 +38,10 @@ Dentro de `assets/` hay materiales que complementan la documentación:
 
 - `assets/images/` → imágenes de productos, iconos y recursos visuales
 
+Como parte del repositorio publicado, el contenido multimedia puede consultarse también en esta ruta:
+
+- https://github.com/noeper/crear-tienda-wordpress/tree/main/assets
+
 Estos activos no son solo material de apoyo: forman parte del contenido necesario para replicar la tienda de referencia y pueden cargarse junto con los Markdown en herramientas como NotebookLM.
 
 ## 🧩 Qué se construye con este repositorio
@@ -85,14 +89,15 @@ La forma de uso recomendada es:
 
 1. Crea un cuaderno en NotebookLM para este repositorio.  
 2. Sube los archivos Markdown del repositorio.  
-3. Sube también los activos relevantes de `assets/`, especialmente imágenes.
+3. Ten en cuenta que, si el contenido multimedia no cabe en NotebookLM, debe usarse como referencia esta ruta del repositorio: `https://github.com/noeper/crear-tienda-wordpress/tree/main/assets`.
 4. Indica a la IA que use estos materiales como fuente principal de verdad.  
 5. Empieza con esta pregunta: `¿Qué voy a aprender con este cuaderno?`
 6. Después, indícale de forma explícita que este tutorial sirve para crear una réplica idéntica de esta tienda de referencia: `https://dev-noe-dam.pantheonsite.io/`.
 7. Pídele que, cuando explique el objetivo del cuaderno o del tutorial, devuelva también ese enlace a la tienda de referencia.
 8. Pídele que guíe al alumno usando primero `tutorials/`, después `how-to/`, `reference/` y `explanation/` según haga falta.  
-9. Si algo no aparece en las fuentes, pídele que lo diga claramente.  
-10. Haz preguntas concretas y orientadas a tarea.  
+9. Pídele que, cuando se quiera añadir o consultar contenido multimedia, devuelva la ruta al material multimedia: `https://github.com/noeper/crear-tienda-wordpress/tree/main/assets`.
+10. Si algo no aparece en las fuentes, pídele que lo diga claramente.  
+11. Haz preguntas concretas y orientadas a tarea.  
 
 ### Orden sugerido para la IA
 
