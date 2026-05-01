@@ -4,11 +4,13 @@ Repositorio documental para aprender a crear una tienda online real con Pantheon
 
 ## 🎯 Objetivo
 
-Este proyecto nace de una frustración docente bastante común: dedicar mucho esfuerzo a preparar materiales que el alumnado apenas consulta porque el formato tradicional obliga a leer mucho y no siempre facilita una interacción natural con el contenido.
+Este proyecto nace de una frustración docente bastante común: dedicar mucho esfuerzo a preparar materiales que el alumnado apenas consulta.
 
-Por eso, esta documentación se ha transformado en archivos Markdown pensados para ser utilizados por una IA como fuente principal de verdad. La idea es que el alumnado no se limite a leer documentación, sino que pueda dialogar con ella a través de una IA y avanzar de una forma más guiada, directa y práctica.
+Por eso, esta documentación se ha transformado siguiendo dos premisas:
 
-Para que ese uso tenga sentido y motivación, la documentación no se plantea solo como consulta, sino como un tutorial orientado a un resultado final concreto: crear una réplica funcional de esta tienda de referencia:
+- **Documentación pensada para ser interpretada por una IA**: el contenido se presenta en archivos Markdown para que una IA pueda utilizarlo como fuente principal. La idea es que el alumnado no se limite a leer documentación, sino que pueda dialogar con ella y avanzar de una forma más guiada, directa y práctica.
+
+- **Aprendizaje orientado a un resultado tangible**: la documentación no se plantea como un simple recurso de consulta, sino como un tutorial cuyo propósito es construir un producto real: crear una réplica de esta tienda de referencia:
 
 - https://dev-noe-dam.pantheonsite.io/
 
@@ -32,15 +34,15 @@ La documentación está escrita en Markdown para facilitar su tratamiento por he
 - `explanation/` → conceptos y contexto
 - `assets/` → recursos multimedia
 
-Esta organización permite cubrir mejor distintas necesidades de consulta, separar fundamentos de procedimientos, reutilizar contenido con más facilidad y escalar de forma más limpia conforme crece la documentación.
+Esta organización permite cubrir distintas necesidades de consulta, separar fundamentos de procedimientos, reutilizar contenido con más facilidad y escalar de forma más limpia conforme crece la documentación.
 
-## 🤖 Uso con IA
+## 🤖 Cómo usar este repositorio
 
-He preparado este cuaderno de NotebookLM con los archivos Markdown del repositorio:
+Se ha preparado el siguiente cuaderno de NotebookLM, que incluye todos los archivos Markdown del repositorio como base documental:
 
 - https://notebooklm.google.com/notebook/70847a70-26ea-4983-95a3-74f92a6b6dd8
 
-Ese es el punto de entrada recomendado para el alumnado.
+El alumno puede acceder directamente a ese cuaderno y empezar con una pregunta como: `¿Qué puedo aprender con este cuaderno?`
 
 Si se prefiere usar otra IA, también puede hacerse: basta con trasladar a esa herramienta los documentos Markdown del repositorio y utilizarlos como base canónica.
 
@@ -50,7 +52,7 @@ El contenido multimedia no está cargado en NotebookLM por limitaciones de tama�
 
 ## 📌 Política de uso con IA
 
-Las reglas de uso de esta documentación con herramientas de IA están definidas en:
+Las reglas que debe seguir la IA están descritas en:
 
 - `AI-USAGE-POLICY.md`
 
