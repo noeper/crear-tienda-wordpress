@@ -40,7 +40,7 @@ Esta organización permite cubrir distintas necesidades de consulta, separar fun
 
 Se ha preparado el siguiente cuaderno de NotebookLM, que incluye todos los archivos Markdown del repositorio como base documental:
 
-- https://notebooklm.google.com/notebook/70847a70-26ea-4983-95a3-74f92a6b6dd8
+- https://notebooklm.google.com/notebook/86641e81-c762-4d39-8e2e-d28b73f3037e
 
 El alumno puede acceder directamente a ese cuaderno y empezar con una pregunta como: `¿Qué puedo aprender con este cuaderno?`
 
